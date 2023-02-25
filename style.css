@@ -1,0 +1,193 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+.heading
+{
+    position: relative;
+    top: 130px;
+}
+
+.first{
+    /* position: relative; */
+    
+    height: 800px;
+    width: 100%;
+    
+}
+
+
+
+
+
+.container{
+    background-color: blanchedalmond;
+    border: 30px solid gray;
+    padding-bottom: 150px;
+    width: 500x;
+    font-family: 'Montserrat',sans-serif;
+}
+
+.second{
+    padding: 5px 5px;
+    height: 300px;
+    float: right;
+}
+
+.third{
+    padding: 5px 5px;
+    height: 300px;
+    float: right;
+    
+}
+
+
+.fourth{
+    padding: 5px 5px;
+    height: 300px;
+    float: right;
+}
+
+.text-field_1{
+    font-size: 21px;
+}
+
+.text-field_2{
+    font-size: 21px;
+}
+
+
+h1{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.price{
+    padding-left: 40px;
+}
+
+h3{
+    text-align: center;
+    
+}
+
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: aquamarine;
+}
+.navbar{
+    background-color: darkgray;
+    border-radius: 36px;
+}
+.navbar ul{
+    overflow: auto;
+    padding: 5px 5px;
+}
+.navbar li{
+    float:right;
+    list-style: none;
+    margin: 13px 20px;
+
+}
+
+.cp{
+   width: 350px;
+   padding-left: 58px;
+   
+   
+}
+
+.location_icon{
+    height: 50px;
+    padding-left: 58px;
+    padding-top: 10px;
+
+}
+.address{
+    float: right;
+    padding-top: 10px;
+    padding-right: 950px;
+    
+}
+
+.email_icon{
+    height: 50px;
+    padding-left: 58px;
+    padding-top: 10px;
+
+}
+
+.email_id{
+    float: right;
+    padding-top: 25px;
+    padding-right: 980px;
+
+}
+
+.call_icon{
+    height: 50px;
+    padding-left: 58px;
+    padding-top: 10px;
+
+}
+
+.number{
+    float: right;
+    padding-top: 25px;
+    padding-right: 1030px;
+
+}
+
+  
+  .line{
+    width: 350px;
+    padding-left: 60px;
+    padding-top: 50px;
+    
+  }
+  
+.fb_icon{
+    height: 40px;
+    padding-left: 60px;
+    padding-top: 10px;
+
+}
+.insta_icon{
+    height: 40px;
+    padding-left: 30px;
+    padding-top: 10px;
+
+}
+
+.twitter_icon{
+    height: 40px;
+    padding-left: 30px;
+    padding-top: 10px;
+
+}
+
+.youtube{
+    height: 40px;
+    padding-left: 30px;
+    padding-top: 10px;
+
+}
+
+.socials
+{
+    float: right;
+    position: relative;
+    bottom: 310px;
+    right: 150px;
+    
+}
+
+
+
+
+
+
+
